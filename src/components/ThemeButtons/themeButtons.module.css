@@ -1,0 +1,9 @@
+@layer UI {
+  .button-group {
+    background-color: red;
+    display: flex;
+  }
+
+  .button-group__button {
+  }
+}
