@@ -5,17 +5,6 @@ html[data-theme='dark'] {
   background-color: darkolivegreen;
 }
 
-@font-face {
-  font-family: 'kay_font';
-  src: url('./Roboto/Roboto-Regular.ttf') format('TrueType');
-  font-style: normal;
-  font-weight: Regular;
-}
-/* 
-* {
-  font-family: 'kay_font';
-} */
-
 /*
   1. Use a more-intuitive box-sizing model.
 */
